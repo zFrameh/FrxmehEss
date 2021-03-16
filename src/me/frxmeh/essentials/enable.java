@@ -15,6 +15,7 @@ public class enable extends JavaPlugin implements Listener {
         getCommand("gms").setExecutor(new gms());
         getCommand("gmsp").setExecutor(new gmsp());
         getCommand("gmadv").setExecutor(new gmadv());
+        getCommand("god").setExecutor(new god());
         getCommand("fly").setExecutor(new flycommand()); }
 
     @EventHandler

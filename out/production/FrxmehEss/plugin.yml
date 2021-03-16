@@ -1,0 +1,14 @@
+name: FrxmehGmodes
+main: me.frxmeh.essentials.enable
+version: 1.0
+commands:
+  gmc:
+    description: Imposta la creative
+  gms:
+    description: Imposta la survival
+  gmsp:
+    description: Imposta la spectator
+  gmadv:
+    description: Imposta la adventure
+  fly:
+    description: Abilita la fly
